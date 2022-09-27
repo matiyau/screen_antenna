@@ -107,8 +107,8 @@
         "min_copper_edge_clearance": 0.01,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
-        "min_microvia_diameter": 0.0,
-        "min_microvia_drill": 0.0,
+        "min_microvia_diameter": 0.19999999999999998,
+        "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.44999999999999996,
         "min_track_width": 0.19999999999999998,
@@ -447,6 +447,107 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "5895f95c-6617-4aaf-bd80-c2db3c8378b2",
+      ""
+    ],
+    [
+      "f9f21eee-0144-4db2-984a-a354c52de809",
+      " LED_Row_Amps"
+    ],
+    [
+      "2b9feddb-73ad-4c3f-966c-d0bfee978a2a",
+      "LED Row IO 1"
+    ],
+    [
+      "ca78531e-8168-45e2-b1d6-78d7520bc2c0",
+      "LED_Row"
+    ],
+    [
+      "f9f21eee-0144-4db2-984a-a354c52de809",
+      " LED_Row_Amps"
+    ],
+    [
+      "60eaa3d1-f3a9-4c57-abff-f5ee6877ff19",
+      "LED Row IO 2"
+    ],
+    [
+      "ca78531e-8168-45e2-b1d6-78d7520bc2c0",
+      "LED_Row"
+    ],
+    [
+      "f9f21eee-0144-4db2-984a-a354c52de809",
+      " LED_Row_Amps"
+    ],
+    [
+      "c0ec8089-298b-4fd4-add8-824e45e8e36b",
+      "LED Row IO 3"
+    ],
+    [
+      "ca78531e-8168-45e2-b1d6-78d7520bc2c0",
+      "LED_Row"
+    ],
+    [
+      "f9f21eee-0144-4db2-984a-a354c52de809",
+      " LED_Row_Amps"
+    ],
+    [
+      "7053e708-45c7-47f4-96e3-d953e2b9595a",
+      "LED Row IO 4"
+    ],
+    [
+      "ca78531e-8168-45e2-b1d6-78d7520bc2c0",
+      "LED_Row"
+    ],
+    [
+      "f9f21eee-0144-4db2-984a-a354c52de809",
+      " LED_Row_Amps"
+    ],
+    [
+      "d3fdd6cb-90bb-48b8-b5e8-f38b2657904e",
+      "LED Row IO 5"
+    ],
+    [
+      "ca78531e-8168-45e2-b1d6-78d7520bc2c0",
+      "LED_Row"
+    ],
+    [
+      "f9f21eee-0144-4db2-984a-a354c52de809",
+      " LED_Row_Amps"
+    ],
+    [
+      "88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd",
+      "LED Row IO 6"
+    ],
+    [
+      "ca78531e-8168-45e2-b1d6-78d7520bc2c0",
+      "LED_Row"
+    ],
+    [
+      "f9f21eee-0144-4db2-984a-a354c52de809",
+      " LED_Row_Amps"
+    ],
+    [
+      "37d3760e-ef43-4ce5-b1f4-b4b0398e95cf",
+      "LED Row IO 7"
+    ],
+    [
+      "ca78531e-8168-45e2-b1d6-78d7520bc2c0",
+      "LED_Row"
+    ],
+    [
+      "f9f21eee-0144-4db2-984a-a354c52de809",
+      " LED_Row_Amps"
+    ],
+    [
+      "a3049c12-f58a-4a71-a608-d2d95b44bc77",
+      "LED Row IO 8"
+    ],
+    [
+      "ca78531e-8168-45e2-b1d6-78d7520bc2c0",
+      "LED_Row"
+    ]
+  ],
   "text_variables": {}
 }

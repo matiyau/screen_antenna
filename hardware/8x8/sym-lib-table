@@ -5,4 +5,5 @@
   (lib (name "DEMUX")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Nexperia 74HC138D-Q100,118/symbols.kicad_sym")(options "")(descr ""))
   (lib (name "Op-Amp")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Microchip MCP619-ISL/symbols.kicad_sym")(options "")(descr ""))
   (lib (name "Opto-coupler")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/IXYS CPC1125N/symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "Level Shifter")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Nexperia LSF0102DCH/symbols.kicad_sym")(options "")(descr ""))
 )
