@@ -2550,6 +2550,54 @@
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/2474ab10-6d0b-437f-b5ba-e2a34046d77b"
       (reference "ADC_8") (unit 1) (value "MCU-MCP3008-I/P(DIP16-7.62MM)") (footprint "ADC:MCP3008-I&slash_P")
     )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
+      (reference "AMP_1") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
+      (reference "AMP_2") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
+      (reference "AMP_3") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
+      (reference "AMP_4") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
+      (reference "AMP_5") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
+      (reference "AMP_6") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
+      (reference "AMP_7") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
+      (reference "AMP_8") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
+      (reference "AMP_9") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
+      (reference "AMP_10") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
+      (reference "AMP_11") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
+      (reference "AMP_12") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
+      (reference "AMP_13") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
+      (reference "AMP_14") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
+      (reference "AMP_15") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
+      (reference "AMP_16") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
+    )
     (path "/2b7fa5fe-77f6-4fc6-9900-7f5ebd6b6177"
       (reference "Addr_Sel_1") (unit 1) (value "100K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
@@ -2567,54 +2615,6 @@
     )
     (path "/eb7b4e2c-40f3-4275-9f30-7f765a701335"
       (reference "Addr_Sel_6") (unit 1) (value "100K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
-    )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
-      (reference "Amp_1") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
-      (reference "Amp_2") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
-      (reference "Amp_3") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
-      (reference "Amp_4") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
-      (reference "Amp_5") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
-      (reference "Amp_6") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
-      (reference "Amp_7") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
-      (reference "Amp_8") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
-      (reference "Amp_9") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
-      (reference "Amp_10") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
-      (reference "Amp_11") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
-      (reference "Amp_12") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
-      (reference "Amp_13") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
-      (reference "Amp_14") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/f9f21eee-0144-4db2-984a-a354c52de809/8ece1949-9e43-4ea1-829b-0a66f8ed07b4"
-      (reference "Amp_15") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/f9f21eee-0144-4db2-984a-a354c52de809/c80bf6a8-3f90-4ee7-b2ed-8032351f9892"
-      (reference "Amp_16") (unit 1) (value "MCP619-I{slash}SL") (footprint "Op-Amp:footprints")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/f9f21eee-0144-4db2-984a-a354c52de809/7798a367-add6-4d32-aa22-48155f97e17f"
       (reference "Amp_Fdbk_1") (unit 1) (value "2M") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
@@ -2860,196 +2860,196 @@
       (reference "Drv_RST_PU_8") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/1b46a35f-53f5-44b1-adab-406a8e9c111e"
-      (reference "LED_1") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD1") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/54119923-87ee-44ae-8d33-8239e279738d"
-      (reference "LED_2") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD2") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/200dfedf-d07d-46e8-b093-60e1d6dca1fb"
-      (reference "LED_3") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD3") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/cf385370-7caa-42bf-8ec7-3996ab55679b"
-      (reference "LED_4") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD4") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/c1494d45-f6e8-4511-9001-eb00126561ec"
-      (reference "LED_5") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD5") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f3f047a5-a3b6-4e3a-b5e8-54844f7b28ac"
-      (reference "LED_6") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD6") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/2b6d8623-6174-454b-81e6-fa902158a401"
-      (reference "LED_7") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD7") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f035ada2-9ff6-4b5b-802a-1b72595226b2"
-      (reference "LED_8") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD8") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/ca78531e-8168-45e2-b1d6-78d7520bc2c0/1b46a35f-53f5-44b1-adab-406a8e9c111e"
-      (reference "LED_9") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD9") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/ca78531e-8168-45e2-b1d6-78d7520bc2c0/54119923-87ee-44ae-8d33-8239e279738d"
-      (reference "LED_10") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD10") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/ca78531e-8168-45e2-b1d6-78d7520bc2c0/200dfedf-d07d-46e8-b093-60e1d6dca1fb"
-      (reference "LED_11") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD11") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/ca78531e-8168-45e2-b1d6-78d7520bc2c0/cf385370-7caa-42bf-8ec7-3996ab55679b"
-      (reference "LED_12") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD12") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/ca78531e-8168-45e2-b1d6-78d7520bc2c0/c1494d45-f6e8-4511-9001-eb00126561ec"
-      (reference "LED_13") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD13") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f3f047a5-a3b6-4e3a-b5e8-54844f7b28ac"
-      (reference "LED_14") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD14") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/ca78531e-8168-45e2-b1d6-78d7520bc2c0/2b6d8623-6174-454b-81e6-fa902158a401"
-      (reference "LED_15") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD15") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f035ada2-9ff6-4b5b-802a-1b72595226b2"
-      (reference "LED_16") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD16") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/ca78531e-8168-45e2-b1d6-78d7520bc2c0/1b46a35f-53f5-44b1-adab-406a8e9c111e"
-      (reference "LED_17") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD17") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/ca78531e-8168-45e2-b1d6-78d7520bc2c0/54119923-87ee-44ae-8d33-8239e279738d"
-      (reference "LED_18") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD18") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/ca78531e-8168-45e2-b1d6-78d7520bc2c0/200dfedf-d07d-46e8-b093-60e1d6dca1fb"
-      (reference "LED_19") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD19") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/ca78531e-8168-45e2-b1d6-78d7520bc2c0/cf385370-7caa-42bf-8ec7-3996ab55679b"
-      (reference "LED_20") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD20") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/ca78531e-8168-45e2-b1d6-78d7520bc2c0/c1494d45-f6e8-4511-9001-eb00126561ec"
-      (reference "LED_21") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD21") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f3f047a5-a3b6-4e3a-b5e8-54844f7b28ac"
-      (reference "LED_22") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD22") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/ca78531e-8168-45e2-b1d6-78d7520bc2c0/2b6d8623-6174-454b-81e6-fa902158a401"
-      (reference "LED_23") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD23") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f035ada2-9ff6-4b5b-802a-1b72595226b2"
-      (reference "LED_24") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD24") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/1b46a35f-53f5-44b1-adab-406a8e9c111e"
-      (reference "LED_25") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD25") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/54119923-87ee-44ae-8d33-8239e279738d"
-      (reference "LED_26") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD26") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/200dfedf-d07d-46e8-b093-60e1d6dca1fb"
-      (reference "LED_27") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD27") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/cf385370-7caa-42bf-8ec7-3996ab55679b"
-      (reference "LED_28") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD28") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/c1494d45-f6e8-4511-9001-eb00126561ec"
-      (reference "LED_29") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD29") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f3f047a5-a3b6-4e3a-b5e8-54844f7b28ac"
-      (reference "LED_30") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD30") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/2b6d8623-6174-454b-81e6-fa902158a401"
-      (reference "LED_31") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD31") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f035ada2-9ff6-4b5b-802a-1b72595226b2"
-      (reference "LED_32") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD32") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/ca78531e-8168-45e2-b1d6-78d7520bc2c0/1b46a35f-53f5-44b1-adab-406a8e9c111e"
-      (reference "LED_33") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD33") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/ca78531e-8168-45e2-b1d6-78d7520bc2c0/54119923-87ee-44ae-8d33-8239e279738d"
-      (reference "LED_34") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD34") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/ca78531e-8168-45e2-b1d6-78d7520bc2c0/200dfedf-d07d-46e8-b093-60e1d6dca1fb"
-      (reference "LED_35") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD35") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/ca78531e-8168-45e2-b1d6-78d7520bc2c0/cf385370-7caa-42bf-8ec7-3996ab55679b"
-      (reference "LED_36") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD36") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/ca78531e-8168-45e2-b1d6-78d7520bc2c0/c1494d45-f6e8-4511-9001-eb00126561ec"
-      (reference "LED_37") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD37") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f3f047a5-a3b6-4e3a-b5e8-54844f7b28ac"
-      (reference "LED_38") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD38") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/ca78531e-8168-45e2-b1d6-78d7520bc2c0/2b6d8623-6174-454b-81e6-fa902158a401"
-      (reference "LED_39") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD39") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f035ada2-9ff6-4b5b-802a-1b72595226b2"
-      (reference "LED_40") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD40") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/ca78531e-8168-45e2-b1d6-78d7520bc2c0/1b46a35f-53f5-44b1-adab-406a8e9c111e"
-      (reference "LED_41") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD41") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/ca78531e-8168-45e2-b1d6-78d7520bc2c0/54119923-87ee-44ae-8d33-8239e279738d"
-      (reference "LED_42") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD42") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/ca78531e-8168-45e2-b1d6-78d7520bc2c0/200dfedf-d07d-46e8-b093-60e1d6dca1fb"
-      (reference "LED_43") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD43") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/ca78531e-8168-45e2-b1d6-78d7520bc2c0/cf385370-7caa-42bf-8ec7-3996ab55679b"
-      (reference "LED_44") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD44") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/ca78531e-8168-45e2-b1d6-78d7520bc2c0/c1494d45-f6e8-4511-9001-eb00126561ec"
-      (reference "LED_45") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD45") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f3f047a5-a3b6-4e3a-b5e8-54844f7b28ac"
-      (reference "LED_46") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD46") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/ca78531e-8168-45e2-b1d6-78d7520bc2c0/2b6d8623-6174-454b-81e6-fa902158a401"
-      (reference "LED_47") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD47") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f035ada2-9ff6-4b5b-802a-1b72595226b2"
-      (reference "LED_48") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD48") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/ca78531e-8168-45e2-b1d6-78d7520bc2c0/1b46a35f-53f5-44b1-adab-406a8e9c111e"
-      (reference "LED_49") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD49") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/ca78531e-8168-45e2-b1d6-78d7520bc2c0/54119923-87ee-44ae-8d33-8239e279738d"
-      (reference "LED_50") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD50") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/ca78531e-8168-45e2-b1d6-78d7520bc2c0/200dfedf-d07d-46e8-b093-60e1d6dca1fb"
-      (reference "LED_51") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD51") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/ca78531e-8168-45e2-b1d6-78d7520bc2c0/cf385370-7caa-42bf-8ec7-3996ab55679b"
-      (reference "LED_52") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD52") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/ca78531e-8168-45e2-b1d6-78d7520bc2c0/c1494d45-f6e8-4511-9001-eb00126561ec"
-      (reference "LED_53") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD53") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f3f047a5-a3b6-4e3a-b5e8-54844f7b28ac"
-      (reference "LED_54") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD54") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/ca78531e-8168-45e2-b1d6-78d7520bc2c0/2b6d8623-6174-454b-81e6-fa902158a401"
-      (reference "LED_55") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD55") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f035ada2-9ff6-4b5b-802a-1b72595226b2"
-      (reference "LED_56") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD56") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/ca78531e-8168-45e2-b1d6-78d7520bc2c0/1b46a35f-53f5-44b1-adab-406a8e9c111e"
-      (reference "LED_57") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD57") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/ca78531e-8168-45e2-b1d6-78d7520bc2c0/54119923-87ee-44ae-8d33-8239e279738d"
-      (reference "LED_58") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD58") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/ca78531e-8168-45e2-b1d6-78d7520bc2c0/200dfedf-d07d-46e8-b093-60e1d6dca1fb"
-      (reference "LED_59") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD59") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/ca78531e-8168-45e2-b1d6-78d7520bc2c0/cf385370-7caa-42bf-8ec7-3996ab55679b"
-      (reference "LED_60") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD60") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/ca78531e-8168-45e2-b1d6-78d7520bc2c0/c1494d45-f6e8-4511-9001-eb00126561ec"
-      (reference "LED_61") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD61") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f3f047a5-a3b6-4e3a-b5e8-54844f7b28ac"
-      (reference "LED_62") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD62") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/ca78531e-8168-45e2-b1d6-78d7520bc2c0/2b6d8623-6174-454b-81e6-fa902158a401"
-      (reference "LED_63") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD63") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/ca78531e-8168-45e2-b1d6-78d7520bc2c0/f035ada2-9ff6-4b5b-802a-1b72595226b2"
-      (reference "LED_64") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
+      (reference "LD64") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/492db9e2-67cb-4a5f-a812-3d4e8f5c6794"
       (reference "LED_Driver_1") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:SOP50P640X110-39N")
@@ -3079,196 +3079,196 @@
       (reference "Lvl_Sftr_1") (unit 1) (value "LSF0102DCH") (footprint "Level Shifter:LSF0102DCH")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC_1") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+      (reference "OC1") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/dd52179f-c5a7-4c92-b98a-c9362bf1d002"
-      (reference "OC_2") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "OC2") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/d2b12626-25b0-4133-a667-76cd7d4dffa3"
-      (reference "OC_3") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "OC3") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/90cc2007-2b66-4035-88ee-b9f924eb957c"
-      (reference "OC_4") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "OC4") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/a940c8c7-23c5-4dcd-8c41-47b0c94b2707"
-      (reference "OC_5") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "OC5") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/74105b61-7b24-4025-84f5-6767406f01e0"
-      (reference "OC_6") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "OC6") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/c0a742ae-499f-4fbc-a423-d7b7a4892cd0"
-      (reference "OC_7") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "OC7") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/11e0cef6-6eee-4253-8e43-0510bc3aa58e"
-      (reference "OC_8") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "OC8") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC_9") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+      (reference "OC9") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/dd52179f-c5a7-4c92-b98a-c9362bf1d002"
-      (reference "OC_10") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "OC10") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/d2b12626-25b0-4133-a667-76cd7d4dffa3"
-      (reference "OC_11") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "OC11") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/90cc2007-2b66-4035-88ee-b9f924eb957c"
-      (reference "OC_12") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "OC12") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/a940c8c7-23c5-4dcd-8c41-47b0c94b2707"
-      (reference "OC_13") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "OC13") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/74105b61-7b24-4025-84f5-6767406f01e0"
-      (reference "OC_14") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "OC14") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/c0a742ae-499f-4fbc-a423-d7b7a4892cd0"
-      (reference "OC_15") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "OC15") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/11e0cef6-6eee-4253-8e43-0510bc3aa58e"
-      (reference "OC_16") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "OC16") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC_17") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+      (reference "OC17") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/dd52179f-c5a7-4c92-b98a-c9362bf1d002"
-      (reference "OC_18") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "OC18") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/d2b12626-25b0-4133-a667-76cd7d4dffa3"
-      (reference "OC_19") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "OC19") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/90cc2007-2b66-4035-88ee-b9f924eb957c"
-      (reference "OC_20") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "OC20") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/a940c8c7-23c5-4dcd-8c41-47b0c94b2707"
-      (reference "OC_21") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "OC21") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/74105b61-7b24-4025-84f5-6767406f01e0"
-      (reference "OC_22") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "OC22") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/c0a742ae-499f-4fbc-a423-d7b7a4892cd0"
-      (reference "OC_23") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "OC23") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/11e0cef6-6eee-4253-8e43-0510bc3aa58e"
-      (reference "OC_24") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "OC24") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC_25") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+      (reference "OC25") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/dd52179f-c5a7-4c92-b98a-c9362bf1d002"
-      (reference "OC_26") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "OC26") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/d2b12626-25b0-4133-a667-76cd7d4dffa3"
-      (reference "OC_27") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "OC27") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/90cc2007-2b66-4035-88ee-b9f924eb957c"
-      (reference "OC_28") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "OC28") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/a940c8c7-23c5-4dcd-8c41-47b0c94b2707"
-      (reference "OC_29") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "OC29") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/74105b61-7b24-4025-84f5-6767406f01e0"
-      (reference "OC_30") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "OC30") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/c0a742ae-499f-4fbc-a423-d7b7a4892cd0"
-      (reference "OC_31") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "OC31") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/11e0cef6-6eee-4253-8e43-0510bc3aa58e"
-      (reference "OC_32") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "OC32") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC_33") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+      (reference "OC33") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/dd52179f-c5a7-4c92-b98a-c9362bf1d002"
-      (reference "OC_34") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "OC34") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/d2b12626-25b0-4133-a667-76cd7d4dffa3"
-      (reference "OC_35") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "OC35") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/90cc2007-2b66-4035-88ee-b9f924eb957c"
-      (reference "OC_36") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "OC36") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/a940c8c7-23c5-4dcd-8c41-47b0c94b2707"
-      (reference "OC_37") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "OC37") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/74105b61-7b24-4025-84f5-6767406f01e0"
-      (reference "OC_38") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "OC38") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/c0a742ae-499f-4fbc-a423-d7b7a4892cd0"
-      (reference "OC_39") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "OC39") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/11e0cef6-6eee-4253-8e43-0510bc3aa58e"
-      (reference "OC_40") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "OC40") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC_41") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+      (reference "OC41") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/dd52179f-c5a7-4c92-b98a-c9362bf1d002"
-      (reference "OC_42") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "OC42") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/d2b12626-25b0-4133-a667-76cd7d4dffa3"
-      (reference "OC_43") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "OC43") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/90cc2007-2b66-4035-88ee-b9f924eb957c"
-      (reference "OC_44") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "OC44") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/a940c8c7-23c5-4dcd-8c41-47b0c94b2707"
-      (reference "OC_45") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "OC45") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/74105b61-7b24-4025-84f5-6767406f01e0"
-      (reference "OC_46") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "OC46") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/c0a742ae-499f-4fbc-a423-d7b7a4892cd0"
-      (reference "OC_47") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "OC47") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/11e0cef6-6eee-4253-8e43-0510bc3aa58e"
-      (reference "OC_48") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "OC48") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC_49") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+      (reference "OC49") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/dd52179f-c5a7-4c92-b98a-c9362bf1d002"
-      (reference "OC_50") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "OC50") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/d2b12626-25b0-4133-a667-76cd7d4dffa3"
-      (reference "OC_51") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "OC51") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/90cc2007-2b66-4035-88ee-b9f924eb957c"
-      (reference "OC_52") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "OC52") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/a940c8c7-23c5-4dcd-8c41-47b0c94b2707"
-      (reference "OC_53") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "OC53") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/74105b61-7b24-4025-84f5-6767406f01e0"
-      (reference "OC_54") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "OC54") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/c0a742ae-499f-4fbc-a423-d7b7a4892cd0"
-      (reference "OC_55") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "OC55") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/11e0cef6-6eee-4253-8e43-0510bc3aa58e"
-      (reference "OC_56") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "OC56") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC_57") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+      (reference "OC57") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/dd52179f-c5a7-4c92-b98a-c9362bf1d002"
-      (reference "OC_58") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "OC58") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/d2b12626-25b0-4133-a667-76cd7d4dffa3"
-      (reference "OC_59") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "OC59") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/90cc2007-2b66-4035-88ee-b9f924eb957c"
-      (reference "OC_60") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "OC60") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/a940c8c7-23c5-4dcd-8c41-47b0c94b2707"
-      (reference "OC_61") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "OC61") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/74105b61-7b24-4025-84f5-6767406f01e0"
-      (reference "OC_62") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "OC62") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/c0a742ae-499f-4fbc-a423-d7b7a4892cd0"
-      (reference "OC_63") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "OC63") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/11e0cef6-6eee-4253-8e43-0510bc3aa58e"
-      (reference "OC_64") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "OC64") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
     )
     (path "/9a5af4de-1bec-4945-88d3-5f7acfd363f1"
       (reference "Pin_Header_1") (unit 1) (value "Conn_02x16_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical")
