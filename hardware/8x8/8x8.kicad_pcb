@@ -17417,6 +17417,6 @@
     )
   )
 
-  (gr_rect (start 17.699693 -59.61) (end 435.149693 255.8) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp e368f77c-01f7-4cb2-9911-b83251f0c0ce))
+  (gr_rect (start 1.189693 -59.61) (end 409.749693 255.8) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp e368f77c-01f7-4cb2-9911-b83251f0c0ce))
 
 )
