@@ -3052,28 +3052,28 @@
       (reference "LED_64") (unit 1) (value "WP154A4SEJ3VBDZGC{slash}CA") (footprint "RGB LED:WP154A4SEJ3VBDZGC&slash_CA")
     )
     (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/492db9e2-67cb-4a5f-a812-3d4e8f5c6794"
-      (reference "LED_Driver_1") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:PCA9956BTWY")
+      (reference "LED_Driver_1") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:SOP50P640X110-39N")
     )
     (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/492db9e2-67cb-4a5f-a812-3d4e8f5c6794"
-      (reference "LED_Driver_2") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:PCA9956BTWY")
+      (reference "LED_Driver_2") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:SOP50P640X110-39N")
     )
     (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/492db9e2-67cb-4a5f-a812-3d4e8f5c6794"
-      (reference "LED_Driver_3") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:PCA9956BTWY")
+      (reference "LED_Driver_3") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:SOP50P640X110-39N")
     )
     (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/492db9e2-67cb-4a5f-a812-3d4e8f5c6794"
-      (reference "LED_Driver_4") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:PCA9956BTWY")
+      (reference "LED_Driver_4") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:SOP50P640X110-39N")
     )
     (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/492db9e2-67cb-4a5f-a812-3d4e8f5c6794"
-      (reference "LED_Driver_5") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:PCA9956BTWY")
+      (reference "LED_Driver_5") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:SOP50P640X110-39N")
     )
     (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/492db9e2-67cb-4a5f-a812-3d4e8f5c6794"
-      (reference "LED_Driver_6") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:PCA9956BTWY")
+      (reference "LED_Driver_6") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:SOP50P640X110-39N")
     )
     (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/492db9e2-67cb-4a5f-a812-3d4e8f5c6794"
-      (reference "LED_Driver_7") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:PCA9956BTWY")
+      (reference "LED_Driver_7") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:SOP50P640X110-39N")
     )
     (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/492db9e2-67cb-4a5f-a812-3d4e8f5c6794"
-      (reference "LED_Driver_8") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:PCA9956BTWY")
+      (reference "LED_Driver_8") (unit 1) (value "PCA9956BTWY") (footprint "LED Driver:SOP50P640X110-39N")
     )
     (path "/12e543c7-f003-47d4-a1bc-a7436ebd9e82"
       (reference "Lvl_Sftr_1") (unit 1) (value "LSF0102DCH") (footprint "Level Shifter:LSF0102DCH")

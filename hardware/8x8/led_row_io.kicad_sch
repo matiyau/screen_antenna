@@ -1741,7 +1741,7 @@
     (property "Value" "PCA9956BTWY" (id 1) (at 218.44 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "LED Driver:PCA9956BTWY" (id 2) (at 218.44 83.82 0)
+    (property "Footprint" "LED Driver:SOP50P640X110-39N" (id 2) (at 218.44 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 218.44 83.82 0)
