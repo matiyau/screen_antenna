@@ -3078,203 +3078,203 @@
     (path "/12e543c7-f003-47d4-a1bc-a7436ebd9e82"
       (reference "Lvl_Sftr_1") (unit 1) (value "LSF0102DCH") (footprint "Level Shifter:LSF0102DCH")
     )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC1") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
-      (reference "OC2") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/834d8192-2703-4b11-8c91-4ddc1668a527"
-      (reference "OC3") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/88522cc3-7edc-4eab-8375-60b109d72032"
-      (reference "OC4") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/09fe2972-8c04-4267-9bd3-a210573975bb"
-      (reference "OC5") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/321793a0-11ba-45e5-b4c2-b1c673380cb2"
-      (reference "OC6") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
-      (reference "OC7") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
-      (reference "OC8") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC9") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
-      (reference "OC10") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/834d8192-2703-4b11-8c91-4ddc1668a527"
-      (reference "OC11") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/88522cc3-7edc-4eab-8375-60b109d72032"
-      (reference "OC12") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/09fe2972-8c04-4267-9bd3-a210573975bb"
-      (reference "OC13") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/321793a0-11ba-45e5-b4c2-b1c673380cb2"
-      (reference "OC14") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
-      (reference "OC15") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
-      (reference "OC16") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC17") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
-      (reference "OC18") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/834d8192-2703-4b11-8c91-4ddc1668a527"
-      (reference "OC19") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/88522cc3-7edc-4eab-8375-60b109d72032"
-      (reference "OC20") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/09fe2972-8c04-4267-9bd3-a210573975bb"
-      (reference "OC21") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/321793a0-11ba-45e5-b4c2-b1c673380cb2"
-      (reference "OC22") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
-      (reference "OC23") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
-      (reference "OC24") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC25") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
-      (reference "OC26") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/834d8192-2703-4b11-8c91-4ddc1668a527"
-      (reference "OC27") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/88522cc3-7edc-4eab-8375-60b109d72032"
-      (reference "OC28") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/09fe2972-8c04-4267-9bd3-a210573975bb"
-      (reference "OC29") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/321793a0-11ba-45e5-b4c2-b1c673380cb2"
-      (reference "OC30") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
-      (reference "OC31") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
-      (reference "OC32") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC33") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
-      (reference "OC34") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/834d8192-2703-4b11-8c91-4ddc1668a527"
-      (reference "OC35") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/88522cc3-7edc-4eab-8375-60b109d72032"
-      (reference "OC36") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/09fe2972-8c04-4267-9bd3-a210573975bb"
-      (reference "OC37") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/321793a0-11ba-45e5-b4c2-b1c673380cb2"
-      (reference "OC38") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
-      (reference "OC39") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
-      (reference "OC40") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC41") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
-      (reference "OC42") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/834d8192-2703-4b11-8c91-4ddc1668a527"
-      (reference "OC43") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/88522cc3-7edc-4eab-8375-60b109d72032"
-      (reference "OC44") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/09fe2972-8c04-4267-9bd3-a210573975bb"
-      (reference "OC45") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/321793a0-11ba-45e5-b4c2-b1c673380cb2"
-      (reference "OC46") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
-      (reference "OC47") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
-      (reference "OC48") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC49") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
-      (reference "OC50") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/834d8192-2703-4b11-8c91-4ddc1668a527"
-      (reference "OC51") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/88522cc3-7edc-4eab-8375-60b109d72032"
-      (reference "OC52") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/09fe2972-8c04-4267-9bd3-a210573975bb"
-      (reference "OC53") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/321793a0-11ba-45e5-b4c2-b1c673380cb2"
-      (reference "OC54") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
-      (reference "OC55") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
-      (reference "OC56") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
-      (reference "OC57") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
-      (reference "OC58") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/834d8192-2703-4b11-8c91-4ddc1668a527"
-      (reference "OC59") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/88522cc3-7edc-4eab-8375-60b109d72032"
-      (reference "OC60") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/09fe2972-8c04-4267-9bd3-a210573975bb"
-      (reference "OC61") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/321793a0-11ba-45e5-b4c2-b1c673380cb2"
-      (reference "OC62") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
-      (reference "OC63") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
-    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
-      (reference "OC64") (unit 1) (value "CPC1125N") (footprint "Opto-coupler:footprints")
-    )
     (path "/9a5af4de-1bec-4945-88d3-5f7acfd363f1"
       (reference "Pin_Header_1") (unit 1) (value "Conn_02x16_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical")
     )
     (path "/3cfda6cb-ac3c-4a34-b562-7067895e89fc"
       (reference "Rev_Bias_Sel_1") (unit 1) (value "100K") (footprint "Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical")
+    )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
+      (reference "SSR1") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "SSR2") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "SSR3") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "SSR4") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "SSR5") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "SSR6") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "SSR7") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/2b9feddb-73ad-4c3f-966c-d0bfee978a2a/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "SSR8") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
+      (reference "SSR9") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "SSR10") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "SSR11") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "SSR12") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "SSR13") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "SSR14") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "SSR15") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/60eaa3d1-f3a9-4c57-abff-f5ee6877ff19/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "SSR16") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
+      (reference "SSR17") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "SSR18") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "SSR19") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "SSR20") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "SSR21") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "SSR22") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "SSR23") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/c0ec8089-298b-4fd4-add8-824e45e8e36b/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "SSR24") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
+      (reference "SSR25") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "SSR26") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "SSR27") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "SSR28") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "SSR29") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "SSR30") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "SSR31") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/7053e708-45c7-47f4-96e3-d953e2b9595a/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "SSR32") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
+      (reference "SSR33") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "SSR34") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "SSR35") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "SSR36") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "SSR37") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "SSR38") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "SSR39") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/d3fdd6cb-90bb-48b8-b5e8-f38b2657904e/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "SSR40") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
+      (reference "SSR41") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "SSR42") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "SSR43") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "SSR44") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "SSR45") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "SSR46") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "SSR47") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/88d5b8e1-bbc6-4402-bdc7-9cd5fb3d4bcd/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "SSR48") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
+      (reference "SSR49") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "SSR50") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "SSR51") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "SSR52") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "SSR53") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "SSR54") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "SSR55") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/37d3760e-ef43-4ce5-b1f4-b4b0398e95cf/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "SSR56") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/eacddf72-1ebc-4818-ab9b-f2596b88ead0"
+      (reference "SSR57") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/329ee2f2-cf39-4eb7-8530-1e02f5feefbc"
+      (reference "SSR58") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/834d8192-2703-4b11-8c91-4ddc1668a527"
+      (reference "SSR59") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/88522cc3-7edc-4eab-8375-60b109d72032"
+      (reference "SSR60") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/09fe2972-8c04-4267-9bd3-a210573975bb"
+      (reference "SSR61") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/321793a0-11ba-45e5-b4c2-b1c673380cb2"
+      (reference "SSR62") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/6fb7d6b9-e9bb-4c57-aa9b-e8e6817abb43"
+      (reference "SSR63") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
+    )
+    (path "/a3049c12-f58a-4a71-a608-d2d95b44bc77/1d014b83-1f67-4bdb-9f29-022b8a69ae9b"
+      (reference "SSR64") (unit 1) (value "TLP4176ATP_F") (footprint "SSR:footprints")
     )
   )
 )
