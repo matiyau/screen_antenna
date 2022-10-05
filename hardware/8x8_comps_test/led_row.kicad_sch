@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "RGB LED:WP154A4SEJ3VBDZGC{brace}slash}CA" (pin_numbers hide) (in_bom yes) (on_board yes)
+    (symbol "RGB LED:WP154A4SEJ3VBDZGC{brace}slash}CA" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "LED" (id 0) (at 5.08 -11.43 0)
         (effects (font (size 1.524 1.524)))
       )

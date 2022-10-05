@@ -411,8 +411,6 @@
           "I2C_SCL",
           "I2C_SDA_3V3",
           "I2C_SDA_5V",
-          "Net-(Drv_I_Sel_1-Pad2)",
-          "Net-(Drv_RST_PU_1-Pad2)",
           "RB Voltage",
           "SPI_MISO_3V3",
           "SPI_MISO_5V",
