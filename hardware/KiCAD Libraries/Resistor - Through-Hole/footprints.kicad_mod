@@ -35,7 +35,7 @@
   (pad "1" thru_hole circle (at -3.81 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 32cc01dd-25d9-493c-bff4-fa87a66fce10))
   (pad "2" thru_hole oval (at 3.81 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp b5d7785e-1c71-4baa-a1ae-6a5a6fd8b46d))
   (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
-    (offset (xyz 0 0 0))
+    (offset (xyz -4 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

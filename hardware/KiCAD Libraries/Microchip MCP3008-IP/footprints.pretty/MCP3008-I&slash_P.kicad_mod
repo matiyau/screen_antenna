@@ -160,4 +160,9 @@
   (pad "14" thru_hole circle (at 3.81 -3.81) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask) (tstamp 976005aa-0db3-4e66-a8bb-d42cf1550898))
   (pad "15" thru_hole circle (at 3.81 -6.35) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask) (tstamp 93d3398c-3c82-43b8-aa08-fb05b15086f6))
   (pad "16" thru_hole circle (at 3.81 -8.89) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask) (tstamp dd6f1545-43d9-4e9b-87ee-392362ae6638))
+  (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.step"
+    (offset (xyz -4 9 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
