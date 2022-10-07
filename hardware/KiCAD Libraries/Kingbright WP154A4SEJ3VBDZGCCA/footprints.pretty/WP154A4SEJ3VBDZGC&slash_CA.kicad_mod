@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a19b0900-f313-42e0-88a8-bead45147af8)
   )
-  (fp_text value "LED_WP154A4SEJ3VBDZGC/CA_KNB" (at -1.7164 0) (layer "F.SilkS") hide
+  (fp_text value "LED_WP154A4SEJ3VBDZGC/CA_KNB" (at 0 -0.0254) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 1ce9c3c9-4387-4f24-a2b7-82e949a33c09)
   )
