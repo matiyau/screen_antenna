@@ -6,4 +6,5 @@
   (lib (name "Op-Amp")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Microchip MCP619-ISL/")(options "")(descr ""))
   (lib (name "Level Shifter")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Nexperia LSF0102DCH/footprints.pretty")(options "")(descr ""))
   (lib (name "SSR")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Toshiba TLP417A-TP-F")(options "")(descr ""))
+  (lib (name "Resistor - Through-Hole")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Resistor - Through-Hole")(options "")(descr ""))
 )
