@@ -1,6 +1,7 @@
 (footprint "SOP50P640X110-39N" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 63326962)
+  (clearance 0.125)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -4.064) (layer "F.SilkS")
     (effects (font (size 0.819819 0.819819) (thickness 0.15)))
