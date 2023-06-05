@@ -1,15 +1,18 @@
 #include <Arduino.h>
+// To prevent max and min overrides by Arduino library
+#undef max
+#undef min
+
+#include "grid.h"
+#include "settings.h"
+
+#include "connections/conn_main.h"
+
+Grid grid = create_grid();
 
 void setup() {
-    Serial.begin(115200);
-
-#ifdef MAT_BIG
-    Serial.println("Big");
-#else
-    Serial.println("Small");
-#endif
+    grid.begin(UART_BAUD_RATE, I2C_FREQ_HZ, SPI_FREQ_HZ);
 }
 
 void loop() {
-// write your code here
 }

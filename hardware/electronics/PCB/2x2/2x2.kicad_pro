@@ -419,8 +419,6 @@
           "Net-(DRV1-Pad33)",
           "Net-(DRV1-Pad6)",
           "Net-(DRV1-Pad7)",
-          "Net-(ISEL1-Pad2)",
-          "Net-(PU1-Pad2)",
           "RB Voltage",
           "SPI_MISO_3V3",
           "SPI_MISO_5V",
