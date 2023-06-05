@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "RGB LED")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Kingbright WP154A4SEJ3VBDZGCCA/symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "LED Driver")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/NXP PCA9956BTWY/symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "ADC")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Microchip MCP3008-IP/symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "DEMUX")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Nexperia 74HC138D-Q100,118/symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "Op-Amp")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Microchip MCP619-ISL/symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "Level Shifter")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Nexperia LSF0102DCH/symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "SSR")(type "KiCad")(uri "${KIPRJMOD}/../KiCAD Libraries/Toshiba TLP417A-TP-F/symbol.kicad_sym")(options "")(descr ""))
+)
