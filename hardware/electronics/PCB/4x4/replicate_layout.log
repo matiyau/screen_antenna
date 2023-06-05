@@ -1,0 +1,57 @@
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 303:Plugin executed on: 'linux'
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 304:Plugin executed with python version: '3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]'
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 305:KiCad build version: 6.0.11-2627ca5db0~126~ubuntu22.04.1
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 306:Plugin version: 1.2.1
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 307:Frame repr: <wx._core.Frame object at 0x7f67b15c0a60>
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 331:Preparing replicator with LD1 as a reference
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 106:getting a list of all footprints on board
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 359:source anchor footprint is 'LD1'
+Located on: ['LED 4x2 Top']
+With filenames: ['led_4x2.kicad_sch']
+With sheet_id:['LED 4x2 Top']
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 366:Corresponding footprints are 
+[('LD1', ['LED 4x2 Top']), ('LD9', ['LED 4x2 Bottom'])]
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 378:Showing dialog
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'LED 4x2 Top', file:'led_4x2.kicad_sch'
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['LED 4x2 Bottom']]
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1112:Level selected: ['LED 4x2 Top']
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 384:Toolbar position: wx.Point(1886, 1203)
+03-05 08:28:58 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 390:Dialog position: wx.Point(1522, 1203)
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'LED 4x2 Top', file:'led_4x2.kicad_sch'
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['LED 4x2 Bottom']]
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 157:Replicating layout
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 154:Starting replication of sheets: [['LED 4x2 Bottom']]
+on level: ['LED 4x2 Top']
+with tracks=True, zone=True, text=True, text=True, containing=True, remove=False, locked footprints=False, by_group=False
+03-05 08:29:05 root 243:updating GUI message: 'Preparing for replication'
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 224:Getting the list of source footprints
+03-05 08:29:05 root 248:updating GUI with: 0
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 239:Getting the list of all the remaining footprints
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 244:Getting nets local to source footprints
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 247:Getting source bounding box
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 251:Getting source tracks
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source zones
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source text items
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 284:Getting source drawing items
+03-05 08:29:05 root 243:updating GUI message: 'Replicating footprints'
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 678:Replicating footprints
+03-05 08:29:05 root 248:updating GUI with: 0
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['LED 4x2 Bottom']
+03-05 08:29:05 root 248:updating GUI with: 67
+03-05 08:29:05 root 243:updating GUI message: 'Replicating tracks'
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 844:Replicating tracks
+03-05 08:29:05 root 248:updating GUI with: 0
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['LED 4x2 Bottom']
+03-05 08:29:05 root 248:updating GUI with: 31
+03-05 08:29:05 root 243:updating GUI message: 'Replicating zones'
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 909:Replicating zones
+03-05 08:29:05 root 248:updating GUI with: 0
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['LED 4x2 Bottom']
+03-05 08:29:05 root 243:updating GUI message: 'Replicating text'
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Replicating text
+03-05 08:29:05 root 248:updating GUI with: 0
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['LED 4x2 Bottom']
+03-05 08:29:05 root 243:updating GUI message: 'Replicating drawings'
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1032:Replicating drawings
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['LED 4x2 Bottom']
+03-05 08:29:05 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 177:Replication complete

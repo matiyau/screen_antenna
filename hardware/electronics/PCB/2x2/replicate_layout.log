@@ -1,0 +1,54 @@
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 303:Plugin executed on: 'linux'
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 304:Plugin executed with python version: '3.10.6 (main, Aug 10 2022, 11:40:04) [GCC 11.3.0]'
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 305:KiCad build version: 6.0.8-f2edbf62ab~116~ubuntu22.04.1
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 306:Plugin version: 1.2.1
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 307:Frame repr: <wx._core.Frame object at 0x7fb0dfece3b0>
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 331:Preparing replicator with AMP1 as a reference
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.replicate_layout 106:getting a list of all footprints on board
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 359:source anchor footprint is 'AMP1'
+Located on: ['LED Row IO 1', ' LDRow_Amps']
+With filenames: ['File: led_row_io.kicad_sch', 'File: led_row_amps.kicad_sch']
+With sheet_id:['LED Row IO 1', ' LDRow_Amps']
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 366:Corresponding footprints are 
+[('AMP_2', ['LED Row IO 2', ' LDRow_Amps']), ('AMP1', ['LED Row IO 1', ' LDRow_Amps'])]
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 378:Showing dialog
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:' LDRow_Amps', file:'File: led_row_amps.kicad_sch'
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['LED Row IO 2', ' LDRow_Amps']]
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1112:Level selected: ['LED Row IO 1', ' LDRow_Amps']
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 384:Toolbar position: wx.Point(1701, 138)
+10-10 11:30:15 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 390:Dialog position: wx.Point(1337, 138)
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:' LDRow_Amps', file:'File: led_row_amps.kicad_sch'
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['LED Row IO 2', ' LDRow_Amps']]
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 157:Replicating layout
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 154:Starting replication of sheets: [['LED Row IO 2', ' LDRow_Amps']]
+on level: ['LED Row IO 1', ' LDRow_Amps']
+with tracks=True, zone=True, text=True, text=True, containing=True, remove=False, locked footprints=False, by_group=False
+10-10 11:30:18 root 243:updating GUI message: 'Preparing for replication'
+10-10 11:30:18 root 248:updating GUI with: 0
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 224:Getting the list of source footprints
+10-10 11:30:18 root 248:updating GUI with: 0
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 239:Getting the list of all the remaining footprints
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 244:Getting nets local to source footprints
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 247:Getting source bounding box
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 251:Getting source tracks
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source zones
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source text items
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 284:Getting source drawing items
+10-10 11:30:18 root 243:updating GUI message: 'Replicating footprints'
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 678:Replicating footprints
+10-10 11:30:18 root 248:updating GUI with: 0
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['LED Row IO 2', ' LDRow_Amps']
+10-10 11:30:18 root 243:updating GUI message: 'Replicating tracks'
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 844:Replicating tracks
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['LED Row IO 2', ' LDRow_Amps']
+10-10 11:30:18 root 243:updating GUI message: 'Replicating zones'
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 909:Replicating zones
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['LED Row IO 2', ' LDRow_Amps']
+10-10 11:30:18 root 243:updating GUI message: 'Replicating text'
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Replicating text
+10-10 11:30:18 root 248:updating GUI with: 0
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['LED Row IO 2', ' LDRow_Amps']
+10-10 11:30:18 root 243:updating GUI message: 'Replicating drawings'
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1032:Replicating drawings
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['LED Row IO 2', ' LDRow_Amps']
+10-10 11:30:18 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 177:Replication complete
