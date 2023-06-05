@@ -1,0 +1,3 @@
+[submodule "software/Due/screen_antenna/lib/timer"]
+	path = software/Due/screen_antenna/lib/timer
+	url = https://github.com/ivanseidel/DueTimer.git
