@@ -3,16 +3,15 @@
 #undef max
 #undef min
 
-#include "grid.h"
+#include "main.h"
 #include "settings.h"
 
 #include "connections/conn_main.h"
 
-Grid grid = create_grid();
+Grid grid = createGrid();
+TimerMod timer(0);
 
 void setup() {
     grid.begin(UART_BAUD_RATE, I2C_FREQ_HZ, SPI_FREQ_HZ);
-}
-
-void loop() {
+    setupCust();
 }

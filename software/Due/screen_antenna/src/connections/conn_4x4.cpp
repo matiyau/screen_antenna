@@ -8,7 +8,7 @@
 #include "grid.h"
 #include "rgb_led.h"
 
-Grid create_grid() {
+Grid createGrid() {
     Grid grid = Grid(4, 4, 2, 2);
 
     grid.assignLEDDrvAddr(0, LED_DRV_0_ADDR);

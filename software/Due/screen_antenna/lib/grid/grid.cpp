@@ -174,9 +174,25 @@ void Grid::setI3All(uint8_t val) {
     }
 }
 
-
 uint16_t Grid::getV(uint8_t rgb_led_row, uint8_t rgb_led_col) {
     return rgb_leds[rgb_led_row][rgb_led_col].getV();
 }
 
+uint8_t Grid::get_n_rows() const {
+    return rgb_leds.size();
+}
 
+uint8_t Grid::get_n_cols() const {
+    if (rgb_leds.size() == 0) {
+        return 0;
+    }
+    return rgb_leds[0].size();
+}
+
+uint8_t Grid::get_n_drvs() const {
+    return led_drvs.size();
+}
+
+uint8_t Grid::get_n_adcs() const {
+    return ad_convs.size();
+}

@@ -5,14 +5,13 @@
 #ifndef SCREEN_ANTENNA_CFG_H
 #define SCREEN_ANTENNA_CFG_H
 
-#define CFG_4x4
-
+#include "main.h"
 #include "grid.h"
 
 #ifdef CFG_4x4
 #include "conn_4x4.h"
 #endif
 
-Grid create_grid();
+Grid createGrid();
 
 #endif //SCREEN_ANTENNA_CFG_H

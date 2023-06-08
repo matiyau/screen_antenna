@@ -20,11 +20,11 @@ class TimerMod: protected DueTimer {
     static void isr7() {handled[7]=false;};
     static void isr8() {handled[8]=false;};
 #endif
-    void *handler(void *);
+    void (*handler)(void *);
 
 public:
     TimerMod(unsigned short timer_id);
-    void setHandler(void *handler(void *));
+    void setHandler(void (*handler_func)(void *));
     void handle(void *arg);
 
     void start(double ms = -1);

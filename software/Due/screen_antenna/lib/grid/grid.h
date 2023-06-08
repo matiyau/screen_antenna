@@ -65,6 +65,10 @@ public:
     void setI3All(uint8_t val);
 
     uint16_t getV(uint8_t rgb_led_row, uint8_t rgb_led_col);
+    uint8_t get_n_rows() const;
+    uint8_t get_n_cols() const;
+    uint8_t get_n_drvs() const;
+    uint8_t get_n_adcs() const;
 };
 
 #endif //SCREEN_ANTENNA_GRID_H

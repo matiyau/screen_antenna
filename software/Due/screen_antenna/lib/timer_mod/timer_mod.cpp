@@ -43,8 +43,12 @@ TimerMod::TimerMod(unsigned short timer_id) : DueTimer(timer_id) {
 
 }
 
+void TimerMod::setHandler(void (*handler_func)(void *)) {
+    handler = handler_func;
+}
+
 void TimerMod::handle(void *arg) {
-    if (handled) {
+    if (handled[timer]) {
         return;
     }
     handler(arg);
@@ -66,3 +70,5 @@ void TimerMod::setPeriod(double ms) {
 double TimerMod::getPeriod() const {
     return DueTimer::getPeriod();
 }
+
+bool TimerMod::handled[NUM_TIMERS] = {0};
