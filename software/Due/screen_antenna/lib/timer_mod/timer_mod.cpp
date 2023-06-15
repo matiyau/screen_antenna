@@ -57,18 +57,24 @@ void TimerMod::handle(void *arg) {
 
 void TimerMod::start(double ms) {
     DueTimer::start(ms);
+    started = true;
 }
 
 void TimerMod::stop() {
     DueTimer::stop();
+    started = false;
 }
 
-void TimerMod::setPeriod(double ms) {
-    DueTimer::setPeriod(ms);
+void TimerMod::setPeriod(double us) {
+    DueTimer::setPeriod(us);
 }
 
 double TimerMod::getPeriod() const {
     return DueTimer::getPeriod();
+}
+
+bool TimerMod::has_started() const {
+    return started;
 }
 
 bool TimerMod::handled[NUM_TIMERS] = {0};

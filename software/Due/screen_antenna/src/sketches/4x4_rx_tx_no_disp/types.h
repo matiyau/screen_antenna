@@ -8,6 +8,8 @@
 #include <cstdint>
 #include <vector>
 
+#include "sketch_main.h"
+
 enum Mode {
     RX,
     TX
@@ -31,20 +33,27 @@ enum TxStage {
 
 struct LED {
     uint8_t pos[2];
-    uint8_t targ;
+    uint8_t trgt;
 };
 
 struct Params {
-    Mode mode = RX;
+    Mode mode;
     LED rx_led;
     std::vector<LED> tx_leds;
     union {
-        RxStage rx_stage = RX_STBY;
+        RxStage rx_stage;
         TxStage tx_stage;
     };
-    uint8_t slot_count = 0;
-    uint8_t subslot_count = 0;
-    uint8_t data[100] = {0};
+    uint8_t slot_id;
+    uint8_t subslot_id;
+    uint8_t data[10000];
+    bool next_bit;
+    uint16_t byte_count;
+    uint32_t data_size;
+    uint8_t bit_count;
+    unsigned long start_tm_us;
+    unsigned long end_tm_us;
+    bool active;
 };
 
 #endif //SCREEN_ANTENNA_TYPES_H

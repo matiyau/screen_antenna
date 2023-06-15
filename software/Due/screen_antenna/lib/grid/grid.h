@@ -16,15 +16,18 @@ class Grid {
     std::vector<std::vector<RGBLED>> rgb_leds;
     std::vector<LEDDrv> led_drvs;
     std::vector<ADConv> ad_convs;
+    std::vector<std::vector<int16_t>> v_inits;
 
 public:
     Grid(uint8_t n_rgb_leds_rows, uint8_t n_rgb_leds_cols,
          uint8_t n_led_drvs, uint8_t n_ad_convs):
-            rgb_leds(n_rgb_leds_rows ,
+            rgb_leds(n_rgb_leds_rows,
                      std::vector<RGBLED> (n_rgb_leds_cols,
                                           RGBLED())),
             led_drvs(n_led_drvs, LEDDrv()),
-            ad_convs(n_ad_convs, ADConv()) {};
+            ad_convs(n_ad_convs, ADConv()),
+            v_inits(n_rgb_leds_rows,
+                     std::vector<int16_t> (n_rgb_leds_cols, 0)) {};
 
     void begin(uint32_t uart_baud_rate, uint32_t i2c_freq_hz,
                uint32_t spi_freq_hz);
@@ -64,7 +67,8 @@ public:
     void setI3All(uint8_t r_val, uint8_t g_val, uint8_t b_val);
     void setI3All(uint8_t val);
 
-    uint16_t getV(uint8_t rgb_led_row, uint8_t rgb_led_col);
+    int16_t getVAbs(uint8_t rgb_led_row, uint8_t rgb_led_col);
+    int16_t getVRel(uint8_t rgb_led_row, uint8_t rgb_led_col);
     uint8_t get_n_rows() const;
     uint8_t get_n_cols() const;
     uint8_t get_n_drvs() const;

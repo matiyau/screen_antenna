@@ -43,31 +43,31 @@ Grid createGrid() {
                                LED_1_3_B_TX_PORT);
     grid.connectRGBLEDToADConv(1, 3, 0, LED_1_3_R_RX_CHAN);
 
-    grid.connectRGBLEDToLEDDrv(2, 0, 0, LED_2_0_R_TX_PORT, LED_2_0_G_TX_PORT,
+    grid.connectRGBLEDToLEDDrv(2, 0, 1, LED_2_0_R_TX_PORT, LED_2_0_G_TX_PORT,
                                LED_2_0_B_TX_PORT);
-    grid.connectRGBLEDToADConv(2, 0, 0, LED_2_0_R_RX_CHAN);
-    grid.connectRGBLEDToLEDDrv(2, 1, 0, LED_2_1_R_TX_PORT, LED_2_1_G_TX_PORT,
+    grid.connectRGBLEDToADConv(2, 0, 1, LED_2_0_R_RX_CHAN);
+    grid.connectRGBLEDToLEDDrv(2, 1, 1, LED_2_1_R_TX_PORT, LED_2_1_G_TX_PORT,
                                LED_2_1_B_TX_PORT);
-    grid.connectRGBLEDToADConv(2, 1, 0, LED_2_1_R_RX_CHAN);
-    grid.connectRGBLEDToLEDDrv(2, 2, 0, LED_2_2_R_TX_PORT, LED_2_2_G_TX_PORT,
+    grid.connectRGBLEDToADConv(2, 1, 1, LED_2_1_R_RX_CHAN);
+    grid.connectRGBLEDToLEDDrv(2, 2, 1, LED_2_2_R_TX_PORT, LED_2_2_G_TX_PORT,
                                LED_2_2_B_TX_PORT);
-    grid.connectRGBLEDToADConv(2, 2, 0, LED_2_2_R_RX_CHAN);
-    grid.connectRGBLEDToLEDDrv(2, 3, 0, LED_2_3_R_TX_PORT, LED_2_3_G_TX_PORT,
+    grid.connectRGBLEDToADConv(2, 2, 1, LED_2_2_R_RX_CHAN);
+    grid.connectRGBLEDToLEDDrv(2, 3, 1, LED_2_3_R_TX_PORT, LED_2_3_G_TX_PORT,
                                LED_2_3_B_TX_PORT);
-    grid.connectRGBLEDToADConv(2, 3, 0, LED_2_3_R_RX_CHAN);
+    grid.connectRGBLEDToADConv(2, 3, 1, LED_2_3_R_RX_CHAN);
 
-    grid.connectRGBLEDToLEDDrv(3, 0, 0, LED_3_0_R_TX_PORT, LED_3_0_G_TX_PORT,
+    grid.connectRGBLEDToLEDDrv(3, 0, 1, LED_3_0_R_TX_PORT, LED_3_0_G_TX_PORT,
                                LED_3_0_B_TX_PORT);
-    grid.connectRGBLEDToADConv(3, 0, 0, LED_3_0_R_RX_CHAN);
-    grid.connectRGBLEDToLEDDrv(3, 1, 0, LED_3_1_R_TX_PORT, LED_3_1_G_TX_PORT,
+    grid.connectRGBLEDToADConv(3, 0, 1, LED_3_0_R_RX_CHAN);
+    grid.connectRGBLEDToLEDDrv(3, 1, 1, LED_3_1_R_TX_PORT, LED_3_1_G_TX_PORT,
                                LED_3_1_B_TX_PORT);
-    grid.connectRGBLEDToADConv(3, 1, 0, LED_3_1_R_RX_CHAN);
-    grid.connectRGBLEDToLEDDrv(3, 2, 0, LED_3_2_R_TX_PORT, LED_3_2_G_TX_PORT,
+    grid.connectRGBLEDToADConv(3, 1, 1, LED_3_1_R_RX_CHAN);
+    grid.connectRGBLEDToLEDDrv(3, 2, 1, LED_3_2_R_TX_PORT, LED_3_2_G_TX_PORT,
                                LED_3_2_B_TX_PORT);
-    grid.connectRGBLEDToADConv(3, 2, 0, LED_3_2_R_RX_CHAN);
-    grid.connectRGBLEDToLEDDrv(3, 3, 0, LED_3_3_R_TX_PORT, LED_3_3_G_TX_PORT,
+    grid.connectRGBLEDToADConv(3, 2, 1, LED_3_2_R_RX_CHAN);
+    grid.connectRGBLEDToLEDDrv(3, 3, 1, LED_3_3_R_TX_PORT, LED_3_3_G_TX_PORT,
                                LED_3_3_B_TX_PORT);
-    grid.connectRGBLEDToADConv(3, 3, 0, LED_3_3_R_RX_CHAN);
+    grid.connectRGBLEDToADConv(3, 3, 1, LED_3_3_R_RX_CHAN);
 
     return grid;
 };

@@ -21,6 +21,12 @@ void Grid::begin(uint32_t uart_baud_rate, uint32_t i2c_freq_hz,
         assignADConvFreqHz(i, spi_freq_hz);
         beginADConv(i);
     }
+
+    for (uint8_t i=0; i<get_n_rows(); i++) {
+        for (uint8_t j=0; j<get_n_cols(); j++) {
+            v_inits[i][j] = getVAbs(i, j);
+        }
+    }
 }
 
 void Grid::assignLEDDrvAddr(uint8_t led_drv_id, uint8_t led_drv_addr) {
@@ -114,7 +120,6 @@ void Grid::setPWM3All(uint8_t val) {
     }
 }
 
-
 void Grid::setIR(uint8_t rgb_led_row, uint8_t rgb_led_col, uint8_t val) {
     rgb_leds[rgb_led_row][rgb_led_col].setIR(val);
 }
@@ -174,8 +179,13 @@ void Grid::setI3All(uint8_t val) {
     }
 }
 
-uint16_t Grid::getV(uint8_t rgb_led_row, uint8_t rgb_led_col) {
+int16_t Grid::getVAbs(uint8_t rgb_led_row, uint8_t rgb_led_col) {
     return rgb_leds[rgb_led_row][rgb_led_col].getV();
+}
+
+int16_t Grid::getVRel(uint8_t rgb_led_row, uint8_t rgb_led_col) {
+    return (rgb_leds[rgb_led_row][rgb_led_col].getV() -
+            v_inits[rgb_led_row][rgb_led_col]);
 }
 
 uint8_t Grid::get_n_rows() const {

@@ -7,6 +7,7 @@
 
 #include "types.h"
 
+void rxStby(Params &prms);
 void rxTick(Params &prms);
 
 #endif //SCREEN_ANTENNA_RX_H

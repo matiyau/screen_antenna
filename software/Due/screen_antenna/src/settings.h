@@ -10,6 +10,7 @@
 #define SPI_FREQ_HZ 3600000
 
 #define TICK_TM_US 200
+#define ADC_V_THRESH 60
 
 #define UART_CMD_STT '*'
 #define UART_CMD_SEP ','

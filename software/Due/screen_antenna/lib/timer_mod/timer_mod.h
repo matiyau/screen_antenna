@@ -21,6 +21,7 @@ class TimerMod: protected DueTimer {
     static void isr8() {handled[8]=false;};
 #endif
     void (*handler)(void *);
+    bool started=false;
 
 public:
     TimerMod(unsigned short timer_id);
@@ -29,8 +30,9 @@ public:
 
     void start(double ms = -1);
     void stop(void);
-    void setPeriod(double ms);
-    double getPeriod(void) const;
+    void setPeriod(double us);
+    double getPeriod() const;
+    bool has_started() const;
 
 };
 
