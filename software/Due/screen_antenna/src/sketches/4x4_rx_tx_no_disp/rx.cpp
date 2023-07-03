@@ -10,7 +10,7 @@
 void rxStby(Params &prms) {
     timer.start();
     int16_t vRel = grid.getVRel(prms.rx_led.pos[0], prms.rx_led.pos[1]);
-    if (vRel > ADC_V_THRESH) {
+    if (vRel > ADC_V_THRESH_PRMB) {
         prms.rx_stage = RX_PRMB;
         prms.slot_id = 0;
         prms.subslot_id = 1;
@@ -22,7 +22,7 @@ void rxStby(Params &prms) {
 
 void rxPrmb(Params &prms) {
     int16_t vRel = grid.getVRel(prms.rx_led.pos[0], prms.rx_led.pos[1]);
-    if (vRel <= ADC_V_THRESH) {
+    if (vRel <= ADC_V_THRESH_PRMB) {
 //        Serial.println(prms.slot_id);
         if (prms.slot_id <= (PRMB_SLOTS/2)-3) {
             timer.stop();
@@ -45,7 +45,8 @@ void rxPrmb(Params &prms) {
 
 void rxTrgt(Params &prms) {
     delayMicroseconds(ADC_READ_DELAY_US);
-    if (grid.getVRel(prms.rx_led.pos[0], prms.rx_led.pos[1]) > ADC_V_THRESH) {
+    if (grid.getVRel(prms.rx_led.pos[0], prms.rx_led.pos[1]) >
+    ADC_V_THRESH_TRGT) {
         if (prms.active) {
             prms.rx_led.trgt++;
         }
@@ -70,7 +71,7 @@ void rxSize(Params &prms) {
         return;
     }
     prms.data_size = prms.data_size << 1;
-    if (vRel > ADC_V_THRESH) {
+    if (vRel > ADC_V_THRESH_SIZE) {
         prms.data_size = prms.data_size | 0x01;
     }
     if ((++prms.bit_count) == 32) {
@@ -114,7 +115,7 @@ void rxData(Params &prms) {
         return;
     }
     prms.data[prms.byte_count] = prms.data[prms.byte_count] << 1;
-    if (vRel > ADC_V_THRESH) {
+    if (vRel > ADC_V_THRESH_DATA) {
         prms.data[prms.byte_count] = prms.data[prms.byte_count] | 0x01;
     }
     if ((++prms.bit_count) == 8) {
