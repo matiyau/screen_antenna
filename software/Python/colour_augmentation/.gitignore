@@ -1,5 +1,5 @@
 __pycache__
 .spyproject
-.max_r_in_rgb_space.npy
-.max_r_in_rgb_space.csv
+max_r_in_rgb_space.npy
+max_r_in_rgb_space.csv
 delta_e_for_r,g,b.npy
