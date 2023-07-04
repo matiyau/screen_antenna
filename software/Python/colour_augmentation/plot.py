@@ -166,7 +166,7 @@ ax2.boxplot([i for i in
             capprops={"linewidth": 2},
             widths=15*[2])
 
-ax2.set_xticks(np.arange(0, 99, 14))
+ax2.set_xticks(np.arange(0, 99, 14), np.arange(0, 99, 14))
 # whiskerprops={"linewidth": 2})
 ax2.tick_params(axis='both', which='major',
                 labelsize=(3/4)*axis_ticklabel_maj_sz)
